@@ -3,3 +3,6 @@ pages_build_output_dir = "./public"
 
 [build]
 command = ""
+
+[vars]
+X_MASTER_KEY = ""
